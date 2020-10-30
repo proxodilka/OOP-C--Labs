@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banrk_Lab", "Banrk_Lab\Banrk_Lab.csproj", "{1CDBF865-606D-4639-AC9B-C6C315B1C509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDBF865-606D-4639-AC9B-C6C315B1C509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDBF865-606D-4639-AC9B-C6C315B1C509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDBF865-606D-4639-AC9B-C6C315B1C509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDBF865-606D-4639-AC9B-C6C315B1C509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D27D7B-5888-4E37-AF55-61ACE0E926C9}
+	EndGlobalSection
+EndGlobal
